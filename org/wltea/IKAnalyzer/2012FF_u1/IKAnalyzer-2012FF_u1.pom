@@ -3,6 +3,6 @@
     <modelVersion>4.0.0</modelVersion>
     <packaging>jar</packaging>
 	<groupId>org.wltea</groupId>
-	<artifactId>IKAnalyzer2012FF_u1</artifactId>
+	<artifactId>IKAnalyzer-2012FF_u1</artifactId>
 	<version>2012FF_u1</version>
 </project>
